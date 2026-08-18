@@ -1,0 +1,32 @@
+Simplified PC Updater
+Copyright © 2026 RevTek Studios LLC
+All Rights Reserved.
+
+Simplified PC Updater is proprietary software developed and owned by
+RevTek Studios LLC.
+
+Permission is granted to use the software in accordance with the terms
+under which it was distributed. No ownership rights are transferred.
+
+The software may not be modified, redistributed, sold, sublicensed,
+reverse engineered, or incorporated into another product without
+written permission from RevTek Studios LLC, except where such
+restrictions are prohibited by applicable law.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT.
+
+RevTek Studios LLC shall not be liable for damages arising from use of
+the software, including software installation, software updates,
+third-party package installation, or third-party software behavior.
+
+Simplified PC Updater uses Microsoft Windows Package Manager (WinGet)
+to discover and install software updates.
+
+Microsoft, Windows, and Windows Package Manager are trademarks or
+products of Microsoft Corporation.
+
+RevTek Studios LLC is not affiliated with, sponsored by, or endorsed
+by Microsoft Corporation.
